@@ -34,7 +34,7 @@ WebUI.click(findTestObject('Page_Google/input_btnK'))
 
 WebUI.verifyTextPresent('скачать', false)
 
-WebUI.delay(3)
+WebUI.delay(5)
 
 WebUI.closeBrowser()
 
